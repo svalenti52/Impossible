@@ -18,15 +18,6 @@
     <ClCompile Include="Impossible.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="card_tricks.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="head_run.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="impossible_.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head_run.h">
@@ -35,7 +26,7 @@
     <ClInclude Include="card_tricks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="impossible.h">
+    <ClInclude Include="impossible_.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

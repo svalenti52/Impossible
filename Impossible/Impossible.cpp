@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include "impossible.h"
+#include "impossible_.h"
 #include "head_run.h"
 #include "card_tricks.h"
 

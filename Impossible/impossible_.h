@@ -7,7 +7,6 @@
  * Actually taken from the book "Impossible?" by Julian Havil
  */
 
-#include "impossible.h"
 #include <iostream>
 #include <vector>
 #include <numeric>
