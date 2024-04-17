@@ -126,7 +126,7 @@ void impossible()
 
     tpsp.erase(tpsp_it, tpsp.end());
 
-    cout << "Unique Product: length of tpsp vector is = " << tpsp.size() << '\n';
+    cout << "Unique Product: length of Pair for Sum, Product, vector is = " << tpsp.size() << '\n';
 
 
 /*
@@ -160,7 +160,7 @@ void impossible()
 
     tpsp.erase(tpsp_sum_it, tpsp.end());
 
-    cout << "Unique Sum: length of tpsp vector is = " << tpsp.size() << '\n';
+    cout << "Unique Sum: length of Pair for Sum, Product, vector is = " << tpsp.size() << '\n';
 
     for (TPairSumProd& t : tpsp) {
         auto [v, s, p, b] = t;
